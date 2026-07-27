@@ -30,6 +30,8 @@
 
 ## Advanced Use Cases
 
+[Threat Hunting in Open Directories](<Basic scenario/Threat Hunting in Open Directories.md>)
+
 [A Comprehensive Guide to Threat Intelligence Discovery Using FOFA](https://github.com/FofaInfo/Awesome-FOFA/blob/4144088aed5815e7eee565d270c29892478992ed/Basic%20scenario/A%20Comprehensive%20Guide%20to%20Threat%20Intelligence%20Discovery%20Using%20FOFA.md)
 
 [Practical FOFA Asset Expansion- Unmasking the Trail of the 'Silver Fox' APT](https://github.com/FofaInfo/Awesome-FOFA/blob/5e54a179c7203cadc1e950e4e8f679caed5f9dee/Basic%20scenario/Practical%20FOFA%20Asset%20Expansion-%20Unmasking%20the%20Trail%20of%20the%20'Silver%20Fox'%20APT.md)
@@ -98,4 +100,3 @@
 [Traque de l’infrastructure cybercriminelle de l’infostealer RisePro](https://projetfox.com/2023/11/traque-de-linfrastructure-cybercriminelle-de-linfostealer-risepro/)
 
 [New Threat Detected: Inside Our Discovery of the Log4j Campaign and Its XMRig Malware](https://www.uptycs.com/blog/log4j-campaign-xmrig-malware)
-
