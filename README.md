@@ -30,7 +30,7 @@
 
 ## Advanced Use Cases
 
-[Ferret Exposes an Agent Autonomy Failure That Unraveled a Campaign Targeting the U.S. Accounting Sector](<Basic scenario/Ferret Exposes an Agent Autonomy Failure That Unraveled a Campaign Targeting the U.S. Accounting Sector.md>)
+[Ferret Unmasks CPA-Targeted Phishing by South African Attackers After AI Agent Slip-Up](<Basic scenario/Ferret Unmasks CPA-Targeted Phishing by South African Attackers After AI Agent Slip-Up.md>)
 
 [Threat Hunting in Open Directories](<Basic scenario/Threat Hunting in Open Directories.md>)
 

@@ -1,4 +1,4 @@
-# Ferret Exposes an Agent Autonomy Failure That Unraveled a Campaign Targeting the U.S. Accounting Sector
+# Ferret Unmasks CPA-Targeted Phishing by South African Attackers After AI Agent Slip-Up
 
 ## ▌Overview
 
