@@ -30,6 +30,8 @@
 
 ## Advanced Use Cases
 
+[Ferret Exposes an Agent Autonomy Failure That Unraveled a Campaign Targeting the U.S. Accounting Sector](<Basic scenario/Ferret Exposes an Agent Autonomy Failure That Unraveled a Campaign Targeting the U.S. Accounting Sector.md>)
+
 [Threat Hunting in Open Directories](<Basic scenario/Threat Hunting in Open Directories.md>)
 
 [A Comprehensive Guide to Threat Intelligence Discovery Using FOFA](https://github.com/FofaInfo/Awesome-FOFA/blob/4144088aed5815e7eee565d270c29892478992ed/Basic%20scenario/A%20Comprehensive%20Guide%20to%20Threat%20Intelligence%20Discovery%20Using%20FOFA.md)

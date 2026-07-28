@@ -26,6 +26,8 @@
 
 ## 进阶使用案例
 
+[Ferret揭示南非攻击者因Agent自主决策失误导致针对会计行业攻击全面泄露](<Basic scenario/Basic scenario_ZH/Ferret揭示南非攻击者因Agent自主决策失误导致针对会计行业攻击全面泄露.md>)
+
 [开放目录里的威胁狩猎：从攻击者疏忽中发现针对泰国多单位的渗透活动](<Basic scenario/Basic scenario_ZH/开放目录里的威胁狩猎：从攻击者疏忽中发现针对泰国多单位的渗透活动.md>)
 
 [通过FOFA进行威胁情报发现全攻略](https://github.com/FofaInfo/Awesome-FOFA/blob/031158712466e4b183a3ce2e73b450d31afc2765/Basic%20scenario/Basic%20scenario_ZH/%E9%80%9A%E8%BF%87FOFA%E8%BF%9B%E8%A1%8C%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5%E5%8F%91%E7%8E%B0%E5%85%A8%E6%94%BB%E7%95%A5.md)
