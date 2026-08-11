@@ -6,6 +6,10 @@
 
 [官方教你如何白嫖F点？](https://github.com/FofaInfo/Awesome-FOFA/blob/main/Get%20Started%20with%20FOFA/FOF%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97_ZH/%E5%AE%98%E6%96%B9%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E7%99%BD%E5%AB%96F%E7%82%B9%EF%BC%9F.md)
 
+## Benchmark
+
+[网络空间测绘平台 Benchmark V1 评测标准](Benchmark/cyberspace-mapping-platform-benchmark-v1.zh-CN.md)
+
 ## 基础场景
 
 [提升FOFA效率的新途径](https://github.com/FofaInfo/Awesome-FOFA/blob/a0ccea7f20b764fcfc0b0fa0299676b04cb7e9be/Basic%20scenario/Basic%20scenario_ZH/%E6%8F%90%E5%8D%87FOFA%E6%90%9C%E7%B4%A2%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B0%E9%80%94%E5%BE%84.md)

@@ -7,6 +7,10 @@
 
 [How to Get Free F-point from FOFA? ](https://github.com/FofaInfo/Awesome-FOFA/blob/main/Get%20Started%20with%20FOFA/How%20to%20Get%20Free%20F-point%20from%20FOFA%3F.md)
 
+## Benchmark
+
+[Cyberspace Mapping Platform Benchmark V1 Evaluation Standard](Benchmark/cyberspace-mapping-platform-benchmark-v1.en.md)
+
 ## FOFA and AI
 
 [Next-Generation Attack Surface Inventory: Free Trial Available!](https://github.com/FofaInfo/Awesome-FOFA/blob/2718f88e56d0dc678b07ece1793707a9c3bb9542/FOFA%2BAI/Next-Generation%20Attack%20Surface%20Inventory%3A%20Free%20Trial%20Available!.md)
