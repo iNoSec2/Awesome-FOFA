@@ -13,6 +13,8 @@
 
 ## Basic scenario
 
+[Search at Scale, Discover What Exists: FOFA 5.5 Released](<Basic scenario/Search at Scale, Discover What Exists - FOFA 5.5 Released.md>)
+
 [How to use FOFA to discover free LLM resources?](https://github.com/FofaInfo/Awesome-FOFA/blob/76d6ff924c4c498a6752fad32c46d71441e40994/Basic%20scenario/How%20to%20use%20FOFA%20to%20discover%20free%20LLM%20resources%3F.md)
 
 [Elevating FOFA Search Efficiency through Novel Approaches](https://github.com/FofaInfo/Awesome-FOFA/blob/61e0e3ca4d783fb24ea5f5211663cfb3429f1334/Basic%20scenario/Elevating%20FOFA%20Search%20Efficiency%20through%20Novel%20Approaches.md)
