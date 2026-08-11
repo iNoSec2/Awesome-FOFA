@@ -1,8 +1,8 @@
 # Cyberspace Mapping Platform Benchmark
 
-本目录仅收录网络空间测绘平台 Benchmark 测评标准文档，不包含测试报告、测试结果或证据文件。
+本目录为网络空间测绘平台Benchmark测评标准文档。
 
-This directory contains only the Cyberspace Mapping Platform Benchmark evaluation standard. It does not contain test reports, test results, or evidence files.
+This directory contains the Cyberspace Mapping Platform Benchmark evaluation standard.
 
 ## V1
 
