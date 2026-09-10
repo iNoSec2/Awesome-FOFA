@@ -32,6 +32,8 @@
 
 ## 进阶使用案例
 
+[Ferret溯源：追踪印尼黑客组织 PLUTO-HEPHAESTUS](<Basic scenario/Basic scenario_ZH/Ferret溯源：追踪印尼黑客组织 PLUTO-HEPHAESTUS.md>)
+
 [Ferret揭示南非攻击者因Agent自主决策失误导致针对会计行业攻击全面泄露](<Basic scenario/Basic scenario_ZH/Ferret揭示南非攻击者因Agent自主决策失误导致针对会计行业攻击全面泄露.md>)
 
 [开放目录里的威胁狩猎：从攻击者疏忽中发现针对泰国多单位的渗透活动](<Basic scenario/Basic scenario_ZH/开放目录里的威胁狩猎：从攻击者疏忽中发现针对泰国多单位的渗透活动.md>)
