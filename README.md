@@ -32,6 +32,8 @@
 
 ## Advanced Use Cases
 
+[Ferret Attribution: Tracking Indonesian Hacker Group PLUTO-HEPHAESTUS](<Basic scenario/Ferret Attribution - Tracking Indonesian Hacker Group PLUTO-HEPHAESTUS.md>)
+
 [Ferret Unmasks CPA-Targeted Phishing by South African Attackers After AI Agent Slip-Up](<Basic scenario/Ferret Unmasks CPA-Targeted Phishing by South African Attackers After AI Agent Slip-Up.md>)
 
 [Threat Hunting in Open Directories](<Basic scenario/Threat Hunting in Open Directories.md>)
