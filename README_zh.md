@@ -32,6 +32,8 @@
 
 ## 进阶使用案例
 
+[当 AI 让老旧漏洞重新致命：厄瓜多尔国家机构被渗透的全链还原](<Basic scenario/Basic scenario_ZH/当 AI 让老旧漏洞重新致命：厄瓜多尔国家机构被渗透的全链还原.md>)
+
 [Ferret溯源：追踪印尼黑客组织 PLUTO-HEPHAESTUS](<Basic scenario/Basic scenario_ZH/Ferret溯源：追踪印尼黑客组织 PLUTO-HEPHAESTUS.md>)
 
 [Ferret揭示南非攻击者因Agent自主决策失误导致针对会计行业攻击全面泄露](<Basic scenario/Basic scenario_ZH/Ferret揭示南非攻击者因Agent自主决策失误导致针对会计行业攻击全面泄露.md>)
